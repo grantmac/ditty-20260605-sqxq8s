@@ -1,0 +1,1 @@
+Open a new ditty and build a clean SaaS analytics dashboard for a small ecommerce store. Include a top nav, KPI cards for revenue/orders/conversion rate, a simple sales chart area, recent orders, and a product performance table. Use a polished neutral design with good spacing and make it responsive.
